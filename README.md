@@ -1,5 +1,4 @@
-# My First Git Project-Guessing Game
-
-Date and time run: 11th MAY 9:00PM
-
-No. of lines: 42
+Guessing Game:
+Mon May 11 12:22:40 PDT 2020
+Total number of lines in code:
+25
